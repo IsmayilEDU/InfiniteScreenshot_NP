@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XQRF3ecAbAbavZr/p3saBMi+GXMOUO4AYhHwQyNntgYTDzWesszjNscZNFS7TbRCQ1HxqGsYmoGleDUPk78Dhg==",
+  "success": true,
+  "projectFilePath": "C:\\Ismayil\\PROJECTS\\StepIT\\10.NetworkProgramming\\Lesson 4 - UDPClient\\InfiniteScreenshot_NP\\InfiniteScreenshot__NP\\WPF\\WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI NOTEBOOK\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\MSI NOTEBOOK\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
